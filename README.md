@@ -25,4 +25,4 @@ This project is currently **ONLY** available on the servers of the Hyrise networ
 * Integrates **[Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric)** which reduces memory consumption.
 * Implements **[C2ME](https://github.com/RelativityMC/C2ME-fabric)** to improve chunk generation speed, I/O and loading. (It allows us to use 32 view-distance)
 * Contains **[Lithium](https://github.com/CaffeineMC/lithium-fabric)** patches to provide better overall performance.
-* Exploitfixes for the known dupe and exploit machines/methods. (Thanks to [IllegalStack](https://github.com/dniym/IllegalStack) for the exploit/dupe list)
+* Exploitfixes for the known dupe and exploit machines/methods. (Thanks to [IllegalStack](https://github.com/dniym/IllegalStack) for the most of the exploit/dupe fixes)
